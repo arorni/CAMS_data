@@ -1,0 +1,4 @@
+python=3.9.21
+pandas=2.2.3
+json5=0.10.0
+pvlib=0.11.2
